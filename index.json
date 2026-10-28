@@ -3,6 +3,27 @@
   "generator": "riff",
   "ideas": [
     {
+      "id": "2026-10-28-wemakedevs-org-section-from-wemakedevs-org-3",
+      "title": "Section from wemakedevs.org",
+      "site": "wemakedevs.org",
+      "source": "https://www.wemakedevs.org/",
+      "captured": "2026-10-28T10:53:10.302Z",
+      "project": "",
+      "tags": [
+        "section"
+      ],
+      "note": "This glow gradient in the background and how it represents different cities and places",
+      "colors": [],
+      "fonts": [],
+      "size": {
+        "width": 550,
+        "height": 550
+      },
+      "path": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org-3/README.md",
+      "shot": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org-3/shot.png",
+      "snippet": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org-3/snippet.html"
+    },
+    {
       "id": "2026-10-28-wemakedevs-org-section-from-wemakedevs-org-2",
       "title": "Section from wemakedevs.org",
       "site": "wemakedevs.org",
