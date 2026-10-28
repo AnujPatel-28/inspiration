@@ -3,6 +3,37 @@
   "generator": "riff",
   "ideas": [
     {
+      "id": "2026-10-28-wisprflow-ai-section-from-wisprflow-ai",
+      "title": "Section from wisprflow.ai",
+      "site": "wisprflow.ai",
+      "source": "https://wisprflow.ai/",
+      "captured": "2026-10-28T10:58:10.967Z",
+      "project": "",
+      "tags": [
+        "section"
+      ],
+      "note": "I like their hero section because they represent the feel of the product: how they convey that product feel on their landing page",
+      "colors": [
+        "#1a1a1a",
+        "#e4e4d0",
+        "#034f46",
+        "#ffffeb",
+        "#f0d7ff",
+        "#ffa946"
+      ],
+      "fonts": [
+        "Figtree",
+        "Eb garamond"
+      ],
+      "size": {
+        "width": 1521,
+        "height": 16161
+      },
+      "path": "ideas/2026-10-28-wisprflow-ai-section-from-wisprflow-ai/README.md",
+      "shot": "ideas/2026-10-28-wisprflow-ai-section-from-wisprflow-ai/shot.png",
+      "snippet": "ideas/2026-10-28-wisprflow-ai-section-from-wisprflow-ai/snippet.html"
+    },
+    {
       "id": "2026-10-28-wemakedevs-org-section-from-wemakedevs-org-3",
       "title": "Section from wemakedevs.org",
       "site": "wemakedevs.org",
