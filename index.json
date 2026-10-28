@@ -3,6 +3,34 @@
   "generator": "riff",
   "ideas": [
     {
+      "id": "2026-10-28-wemakedevs-org-section-from-wemakedevs-org-2",
+      "title": "Section from wemakedevs.org",
+      "site": "wemakedevs.org",
+      "source": "https://www.wemakedevs.org/wispr",
+      "captured": "2026-10-28T08:29:52.142Z",
+      "project": "",
+      "tags": [
+        "section"
+      ],
+      "note": "I liked this footer. Can you check and keep it in note for our portfolio website? We can use this type of footer",
+      "colors": [
+        "lab(65.6464 1.53497 -5.42429)",
+        "lab(64.4948 55.7544 46.8151)",
+        "lab(100 0 0 / 0.1)"
+      ],
+      "fonts": [
+        "Inter",
+        "Geist Mono"
+      ],
+      "size": {
+        "width": 1300,
+        "height": 358
+      },
+      "path": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org-2/README.md",
+      "shot": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org-2/shot.png",
+      "snippet": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org-2/snippet.html"
+    },
+    {
       "id": "2026-10-28-wemakedevs-org-section-from-wemakedevs-org",
       "title": "Section from wemakedevs.org",
       "site": "wemakedevs.org",
