@@ -1,0 +1,27 @@
+{
+  "format": 1,
+  "generator": "riff",
+  "ideas": [
+    {
+      "id": "2026-10-28-wemakedevs-org-section-from-wemakedevs-org",
+      "title": "Section from wemakedevs.org",
+      "site": "wemakedevs.org",
+      "source": "https://www.wemakedevs.org/",
+      "captured": "2026-10-28T08:13:55.203Z",
+      "project": "",
+      "tags": [
+        "section"
+      ],
+      "note": "The 3D visualized Earth shows how it rotates slowly and it represents different states. It can be used on any page where we have to show a worldwide globe with different locations",
+      "colors": [],
+      "fonts": [],
+      "size": {
+        "width": 550,
+        "height": 550
+      },
+      "path": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org/README.md",
+      "shot": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org/shot.png",
+      "snippet": "ideas/2026-10-28-wemakedevs-org-section-from-wemakedevs-org/snippet.html"
+    }
+  ]
+}
